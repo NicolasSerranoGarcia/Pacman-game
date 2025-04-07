@@ -35,11 +35,11 @@
 
 ## ✨ Overview
 
-The **Pacman-game** project offers a robust implementation of the classic arcade experience, allowing developers to explore game mechanics while recreating a nostalgic favorite.
+The **Pacman-game** project offers a robust implementation of the classic arcade experience, allowing me to pave my way into the C languaje. This is a really simple bash implementation.
 
 **Why Pacman-game?**
 
-This project serves as a comprehensive tool for developers looking to build engaging arcade games. The core features include:
+This project served as a way to better understand C functionality. The core features include:
 
 - 🎮 **Game Map Rendering:** Visualize the game state for easier debugging and enhancements.
 - 👻 **Character Movement:** Simplify movement mechanics, reducing complexity in game design.
@@ -60,7 +60,7 @@ This project requires the following dependencies:
 
 ### ⚙️ Installation
 
-Build Pacman-game from the source and intsall dependencies:
+Build Pacman-game from the source and install dependencies:
 
 1. **Clone the repository:**
 
