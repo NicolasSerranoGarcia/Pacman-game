@@ -81,11 +81,6 @@ Build Pacman-game from the source and install dependencies:
 ```sh
 ❯ make deps
 ```
-**Using [make](https://en.wikipedia.org/wiki/C_(programming_language)):**
-
-```sh
-❯ make deps
-```
 
 ### 💻 Usage
 
@@ -96,21 +91,11 @@ Run the project with:
 ```sh
 make run
 ```
-**Using [make](https://en.wikipedia.org/wiki/C_(programming_language)):**
-
-```sh
-make run
-```
 
 ### 🧪 Testing
 
 Pacman-game uses the {__test_framework__} test framework. Run the test suite with:
 
-**Using [make](https://en.wikipedia.org/wiki/C_(programming_language)):**
-
-```sh
-make test
-```
 **Using [make](https://en.wikipedia.org/wiki/C_(programming_language)):**
 
 ```sh
